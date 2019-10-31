@@ -1,4 +1,4 @@
-# Reliese Laravel
+# Reliese for Laravel ^6.0
 
 [![StyleCI](https://styleci.io/repos/71080508/shield?style=flat)](https://styleci.io/repos/71080508)
 [![Build Status](https://travis-ci.org/reliese/laravel.svg?branch=master)](https://travis-ci.org/reliese/laravel)
